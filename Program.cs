@@ -201,7 +201,6 @@ public class Players
             {
                 return 0;
             }
-
             return 10;
         }
 
@@ -231,9 +230,7 @@ public class Players
                 }
                 printTheMessage.PrintTheMessage("Move accepted, here's the current board: ");
                 printTheMessage.PrintTheMessage("\n");
-                
-                
             }
-        }
+        } 
 }
 
