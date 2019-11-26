@@ -1,0 +1,11 @@
+/Users/cecilia.yin/RiderProjects/TicTacToeOOP/TicTacToeOOP/obj/Debug/netcoreapp3.0/TicTacToeOOP.csprojAssemblyReference.cache
+/Users/cecilia.yin/RiderProjects/TicTacToeOOP/TicTacToeOOP/obj/Debug/netcoreapp3.0/TicTacToeOOP.AssemblyInfoInputs.cache
+/Users/cecilia.yin/RiderProjects/TicTacToeOOP/TicTacToeOOP/obj/Debug/netcoreapp3.0/TicTacToeOOP.AssemblyInfo.cs
+/Users/cecilia.yin/RiderProjects/TicTacToeOOP/TicTacToeOOP/bin/Debug/netcoreapp3.0/TicTacToeOOP
+/Users/cecilia.yin/RiderProjects/TicTacToeOOP/TicTacToeOOP/bin/Debug/netcoreapp3.0/TicTacToeOOP.deps.json
+/Users/cecilia.yin/RiderProjects/TicTacToeOOP/TicTacToeOOP/bin/Debug/netcoreapp3.0/TicTacToeOOP.runtimeconfig.json
+/Users/cecilia.yin/RiderProjects/TicTacToeOOP/TicTacToeOOP/bin/Debug/netcoreapp3.0/TicTacToeOOP.runtimeconfig.dev.json
+/Users/cecilia.yin/RiderProjects/TicTacToeOOP/TicTacToeOOP/bin/Debug/netcoreapp3.0/TicTacToeOOP.dll
+/Users/cecilia.yin/RiderProjects/TicTacToeOOP/TicTacToeOOP/bin/Debug/netcoreapp3.0/TicTacToeOOP.pdb
+/Users/cecilia.yin/RiderProjects/TicTacToeOOP/TicTacToeOOP/obj/Debug/netcoreapp3.0/TicTacToeOOP.dll
+/Users/cecilia.yin/RiderProjects/TicTacToeOOP/TicTacToeOOP/obj/Debug/netcoreapp3.0/TicTacToeOOP.pdb
