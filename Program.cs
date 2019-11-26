@@ -3,7 +3,7 @@ using System.Net;
 using System.Threading;
 
 namespace TicTacToeOOP
-{
+{ 
     static class Program 
     {
         public static void Main(string[] args)
@@ -151,21 +151,17 @@ public class GameRules
     public void CheckIfConditionIsWinning(int result, int roundCounter, char[] boardArray)
     {   
         Console.Clear();
-        Board newBoard=new Board();
         Print printTheMessage=new Print();
-        //newBoard.PrintBoard(boardArray);
+        
         
         if (result == 1)
-        {   
-            printTheMessage.PrintTheMessage("\n");
+        {
             printTheMessage.PrintTheMessage($"Well done Player {roundCounter % 2 + 1} won the game!");
-            printTheMessage.PrintTheMessage("\n");
         }
 
         if (result == -1)
         {
             printTheMessage.PrintTheMessage("Draw");
-            printTheMessage.PrintTheMessage("\n");
         }
     }
 }
@@ -217,7 +213,7 @@ public class Players
                 roundCounter += 2;
             }
 
-            if (choiceOfPlayer != 0 && boardArray[choiceOfPlayer] != player1 && boardArray[choiceOfPlayer] != player2)
+            if (choiceOfPlayer != 0 && boardArray[choiceOfPlayer] != player1 && boardArray[choiceOfPlayer] != player2 )
             {
                 if (roundCounter % 2 == 0)
                 {
